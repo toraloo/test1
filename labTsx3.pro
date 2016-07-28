@@ -15,10 +15,12 @@ TEMPLATE = app
 SOURCES += main.cpp\
         mainwindow.cpp \
     mywidget.cpp \
-    jxltest.cpp
+    jxltest.cpp \
+    zwlwidget.cpp
 
 HEADERS  += mainwindow.h \
     mywidget.h \
-    jxltest.h
+    jxltest.h \
+    zwlwidget.h
 
 FORMS    += mainwindow.ui

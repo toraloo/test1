@@ -14,9 +14,11 @@ TEMPLATE = app
 
 SOURCES += main.cpp\
         mainwindow.cpp \
-    mywidget.cpp
+    mywidget.cpp \
+    jxltest.cpp
 
 HEADERS  += mainwindow.h \
-    mywidget.h
+    mywidget.h \
+    jxltest.h
 
 FORMS    += mainwindow.ui
